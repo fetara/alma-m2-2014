@@ -25,7 +25,7 @@
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWpW4n8oEeSfJeCXAnW4pA"/>
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_mWY4MX8oEeSfJeCXAnW4pA" fontHeight="8"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWY4Mn8oEeSfJeCXAnW4pA" width="30" height="30"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWY4Mn8oEeSfJeCXAnW4pA" x="85" y="170" width="30" height="30"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_mWbUcH8oEeSfJeCXAnW4pA" type="2001" element="_mWCS4H8oEeSfJeCXAnW4pA">
             <children xmi:type="notation:Node" xmi:id="_mWcikH8oEeSfJeCXAnW4pA" type="5002">
@@ -40,14 +40,14 @@
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWx5wn8oEeSfJeCXAnW4pA"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_mWrzIX8oEeSfJeCXAnW4pA" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWrzIn8oEeSfJeCXAnW4pA" x="22" width="30" height="30"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWrzIn8oEeSfJeCXAnW4pA" y="-22" width="30" height="30"/>
             </children>
-            <children xmi:type="notation:Node" xmi:id="_mWwroH8oEeSfJeCXAnW4pA" type="3003" element="_mWCS4X8oEeSfJeCXAnW4pA">
-              <styles xmi:type="notation:ShapeStyle" xmi:id="_mWwroX8oEeSfJeCXAnW4pA"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWwron8oEeSfJeCXAnW4pA"/>
+            <children xmi:type="notation:Node" xmi:id="_wdMngIJGEeS8dYVlva9rPA" type="3003" element="_wcv7kIJGEeS8dYVlva9rPA">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_wdMngYJGEeS8dYVlva9rPA"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wdMngoJGEeS8dYVlva9rPA"/>
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_mWbUcX8oEeSfJeCXAnW4pA" fontHeight="8"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWbUcn8oEeSfJeCXAnW4pA" x="90" width="30" height="30"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWbUcn8oEeSfJeCXAnW4pA" x="460" y="145" width="30" height="30"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_mWdJoH8oEeSfJeCXAnW4pA" type="2001" element="_mWDhAH8oEeSfJeCXAnW4pA">
             <children xmi:type="notation:Node" xmi:id="_mWdwsH8oEeSfJeCXAnW4pA" type="5002">
@@ -62,36 +62,36 @@
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mW2yQn8oEeSfJeCXAnW4pA"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_mWzH4X8oEeSfJeCXAnW4pA" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWzH4n8oEeSfJeCXAnW4pA" x="22" width="30" height="30"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWzH4n8oEeSfJeCXAnW4pA" x="-22" width="30" height="30"/>
             </children>
-            <children xmi:type="notation:Node" xmi:id="_mW1kIH8oEeSfJeCXAnW4pA" type="3003" element="_mWEIEH8oEeSfJeCXAnW4pA">
-              <styles xmi:type="notation:ShapeStyle" xmi:id="_mW1kIX8oEeSfJeCXAnW4pA"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mW1kIn8oEeSfJeCXAnW4pA"/>
+            <children xmi:type="notation:Node" xmi:id="_wdQR4IJGEeS8dYVlva9rPA" type="3003" element="_wcxJsIJGEeS8dYVlva9rPA">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_wdQR4YJGEeS8dYVlva9rPA"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wdQR4oJGEeS8dYVlva9rPA"/>
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_mWdJoX8oEeSfJeCXAnW4pA" fontHeight="8"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWdJon8oEeSfJeCXAnW4pA" x="180" width="30" height="30"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWdJon8oEeSfJeCXAnW4pA" x="460" y="285" width="30" height="30"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_mWe-0H8oEeSfJeCXAnW4pA" type="2001" element="_mWEvIH8oEeSfJeCXAnW4pA">
             <children xmi:type="notation:Node" xmi:id="_mWgM8H8oEeSfJeCXAnW4pA" type="5002">
               <layoutConstraint xmi:type="notation:Location" xmi:id="_mWgM8X8oEeSfJeCXAnW4pA" x="-1"/>
             </children>
-            <children xmi:type="notation:Node" xmi:id="_mW4ncH8oEeSfJeCXAnW4pA" type="3003" element="_mWFWMH8oEeSfJeCXAnW4pA">
-              <styles xmi:type="notation:ShapeStyle" xmi:id="_mW4ncX8oEeSfJeCXAnW4pA"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mW4ncn8oEeSfJeCXAnW4pA"/>
+            <children xmi:type="notation:Node" xmi:id="_wdTVMIJGEeS8dYVlva9rPA" type="3003" element="_wcy-4IJGEeS8dYVlva9rPA">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_wdTVMYJGEeS8dYVlva9rPA"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wdT8QIJGEeS8dYVlva9rPA"/>
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_mWe-0X8oEeSfJeCXAnW4pA" fontHeight="8"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWe-0n8oEeSfJeCXAnW4pA" x="270" width="30" height="30"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWe-0n8oEeSfJeCXAnW4pA" x="25" y="75" width="30" height="30"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_mWg0AH8oEeSfJeCXAnW4pA" type="2001" element="_mWF9QH8oEeSfJeCXAnW4pA">
             <children xmi:type="notation:Node" xmi:id="_mWiCIH8oEeSfJeCXAnW4pA" type="5002">
               <layoutConstraint xmi:type="notation:Location" xmi:id="_mWiCIX8oEeSfJeCXAnW4pA" x="-1"/>
             </children>
-            <children xmi:type="notation:Node" xmi:id="_mW51kH8oEeSfJeCXAnW4pA" type="3003" element="_mWGkUH8oEeSfJeCXAnW4pA">
-              <styles xmi:type="notation:ShapeStyle" xmi:id="_mW51kX8oEeSfJeCXAnW4pA"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mW51kn8oEeSfJeCXAnW4pA"/>
+            <children xmi:type="notation:Node" xmi:id="_wdW_kIJGEeS8dYVlva9rPA" type="3003" element="_wc0NAIJGEeS8dYVlva9rPA">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_wdW_kYJGEeS8dYVlva9rPA"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wdW_koJGEeS8dYVlva9rPA"/>
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_mWg0AX8oEeSfJeCXAnW4pA" fontHeight="8"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWg0An8oEeSfJeCXAnW4pA" x="360" width="30" height="30"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWg0An8oEeSfJeCXAnW4pA" x="125" y="58" width="30" height="30"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_mWipMH8oEeSfJeCXAnW4pA" type="2003" element="_mWN5EH8oEeSfJeCXAnW4pA">
             <children xmi:type="notation:Node" xmi:id="_mWj3UH8oEeSfJeCXAnW4pA" type="5007"/>
@@ -103,7 +103,7 @@
               <styles xmi:type="notation:FilteringStyle" xmi:id="_mWkeYn8oEeSfJeCXAnW4pA"/>
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_mWipMX8oEeSfJeCXAnW4pA"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWipMn8oEeSfJeCXAnW4pA" x="450"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWipMn8oEeSfJeCXAnW4pA" x="265" y="5" width="63" height="73"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_mWlFcH8oEeSfJeCXAnW4pA" type="2002" element="_mWQVUH8oEeSfJeCXAnW4pA">
             <children xmi:type="notation:Node" xmi:id="_mWmTkH8oEeSfJeCXAnW4pA" type="5006"/>
@@ -117,15 +117,31 @@
                   <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mW-HAn8oEeSfJeCXAnW4pA"/>
                 </children>
                 <styles xmi:type="notation:ShapeStyle" xmi:id="_mW8R0X8oEeSfJeCXAnW4pA" fontHeight="8"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mW8R0n8oEeSfJeCXAnW4pA" x="30" y="28" width="30" height="30"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mW8R0n8oEeSfJeCXAnW4pA" x="30" y="30" width="30" height="30"/>
               </children>
               <styles xmi:type="notation:SortingStyle" xmi:id="_mWmTkn8oEeSfJeCXAnW4pA"/>
               <styles xmi:type="notation:FilteringStyle" xmi:id="_mWmTk38oEeSfJeCXAnW4pA"/>
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_mWlFcX8oEeSfJeCXAnW4pA"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWlFcn8oEeSfJeCXAnW4pA" x="550"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mWlFcn8oEeSfJeCXAnW4pA" x="275" y="170"/>
           </children>
           <styles xmi:type="notation:DiagramStyle" xmi:id="_mSWFsn8oEeSfJeCXAnW4pA"/>
+          <edges xmi:type="notation:Edge" xmi:id="_2WIT4IBQEeSFNYDSlQjgPA" type="4001" element="_2UFFcIBQEeSFNYDSlQjgPA" source="_mWdJoH8oEeSfJeCXAnW4pA" target="_mWbUcH8oEeSfJeCXAnW4pA">
+            <children xmi:type="notation:Node" xmi:id="_2WoDIIBQEeSFNYDSlQjgPA" type="6001">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2WoDIYBQEeSFNYDSlQjgPA" y="-10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_2W36wIBQEeSFNYDSlQjgPA" type="6002">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2W36wYBQEeSFNYDSlQjgPA" y="10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_2W6XAIBQEeSFNYDSlQjgPA" type="6003">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2W6XAYBQEeSFNYDSlQjgPA" y="10"/>
+            </children>
+            <styles xmi:type="notation:ConnectorStyle" xmi:id="_2WI68IBQEeSFNYDSlQjgPA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_2WI68YBQEeSFNYDSlQjgPA" fontHeight="8"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2WI68oBQEeSFNYDSlQjgPA" points="[0, 0, 0, 110]$[0, -110, 0, 0]"/>
+            <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2Xj3QIBQEeSFNYDSlQjgPA" id="(0.5,0.0)"/>
+            <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2XkeUIBQEeSFNYDSlQjgPA" id="(0.5,1.0)"/>
+          </edges>
         </data>
       </ownedAnnotationEntries>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_mV-ogH8oEeSfJeCXAnW4pA" name="org.arafet.banque" width="3" height="3" resizeKind="NSEW">
@@ -142,6 +158,9 @@
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Package']/@borderedNodeMappings[name='Package']"/>
         </ownedBorderedNodes>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
         <ownedStyle xmi:type="diagram:Square" xmi:id="_mV_PkH8oEeSfJeCXAnW4pA">
           <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_mV_PkX8oEeSfJeCXAnW4pA"/>
           <description xmi:type="style:SquareDescription" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Package']/@style"/>
@@ -150,12 +169,15 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Package']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_mWCS4H8oEeSfJeCXAnW4pA" name="Banque" width="3" height="3" resizeKind="NSEW">
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_mWCS4H8oEeSfJeCXAnW4pA" name="Banque" incomingEdges="_2UFFcIBQEeSFNYDSlQjgPA" width="3" height="3" resizeKind="NSEW">
         <target xmi:type="dart:Class" href="Project.xmi#//@packages.0/@assets.0"/>
         <semanticElements xmi:type="dart:Class" href="Project.xmi#//@packages.0/@assets.0"/>
-        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_mWIZgH8oEeSfJeCXAnW4pA" name="Name" width="3" height="3" resizeKind="NSEW">
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_mWIZgH8oEeSfJeCXAnW4pA" name="Name" tooltipText="" width="3" height="3" resizeKind="NSEW">
           <target xmi:type="dart:Variable" href="Project.xmi#//@packages.0/@assets.0/@fields.0"/>
           <semanticElements xmi:type="dart:Variable" href="Project.xmi#//@packages.0/@assets.0/@fields.0"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
           <ownedStyle xmi:type="diagram:Square" xmi:id="_mWJAkH8oEeSfJeCXAnW4pA">
             <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_mWJAkX8oEeSfJeCXAnW4pA"/>
             <description xmi:type="style:SquareDescription" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']/@borderedNodeMappings[name='Variable']/@style"/>
@@ -164,20 +186,26 @@
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']/@borderedNodeMappings[name='Variable']"/>
         </ownedBorderedNodes>
-        <ownedStyle xmi:type="diagram:Square" xmi:id="_mWCS4X8oEeSfJeCXAnW4pA">
-          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_mWCS4n8oEeSfJeCXAnW4pA"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_wcv7kIJGEeS8dYVlva9rPA">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_wcv7kYJGEeS8dYVlva9rPA"/>
           <description xmi:type="style:SquareDescription" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']/@style"/>
-          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_mWCS438oEeSfJeCXAnW4pA"/>
-          <color xmi:type="viewpoint:RGBValues" xmi:id="_mWCS5H8oEeSfJeCXAnW4pA" red="194" green="239" blue="255"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_wcv7koJGEeS8dYVlva9rPA"/>
+          <color xmi:type="viewpoint:RGBValues" xmi:id="_-7IQsIJGEeS8dYVlva9rPA" red="204" green="242" blue="166"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_mWDhAH8oEeSfJeCXAnW4pA" name="Client" width="3" height="3" resizeKind="NSEW">
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_mWDhAH8oEeSfJeCXAnW4pA" name="Client" outgoingEdges="_2UFFcIBQEeSFNYDSlQjgPA" width="3" height="3" resizeKind="NSEW">
         <target xmi:type="dart:Class" href="Project.xmi#//@packages.0/@assets.1"/>
         <semanticElements xmi:type="dart:Class" href="Project.xmi#//@packages.0/@assets.1"/>
         <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_mWK1wH8oEeSfJeCXAnW4pA" name="Name" width="3" height="3" resizeKind="NSEW">
           <target xmi:type="dart:Variable" href="Project.xmi#//@packages.0/@assets.1/@fields.0"/>
           <semanticElements xmi:type="dart:Variable" href="Project.xmi#//@packages.0/@assets.1/@fields.0"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
           <ownedStyle xmi:type="diagram:Square" xmi:id="_mWK1wX8oEeSfJeCXAnW4pA">
             <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_mWK1wn8oEeSfJeCXAnW4pA"/>
             <description xmi:type="style:SquareDescription" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']/@borderedNodeMappings[name='Variable']/@style"/>
@@ -186,41 +214,53 @@
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']/@borderedNodeMappings[name='Variable']"/>
         </ownedBorderedNodes>
-        <ownedStyle xmi:type="diagram:Square" xmi:id="_mWEIEH8oEeSfJeCXAnW4pA">
-          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_mWEIEX8oEeSfJeCXAnW4pA"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_wcxJsIJGEeS8dYVlva9rPA">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_wcxJsYJGEeS8dYVlva9rPA"/>
           <description xmi:type="style:SquareDescription" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']/@style"/>
-          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_mWEIEn8oEeSfJeCXAnW4pA"/>
-          <color xmi:type="viewpoint:RGBValues" xmi:id="_mWEIE38oEeSfJeCXAnW4pA" red="194" green="239" blue="255"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_wcxJsoJGEeS8dYVlva9rPA"/>
+          <color xmi:type="viewpoint:RGBValues" xmi:id="_-7Je0IJGEeS8dYVlva9rPA" red="204" green="242" blue="166"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_mWEvIH8oEeSfJeCXAnW4pA" width="3" height="3" resizeKind="NSEW">
         <target xmi:type="dart:Controller" href="Project.xmi#//@packages.0/@assets.4"/>
         <semanticElements xmi:type="dart:Controller" href="Project.xmi#//@packages.0/@assets.4"/>
-        <ownedStyle xmi:type="diagram:Square" xmi:id="_mWFWMH8oEeSfJeCXAnW4pA">
-          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_mWFWMX8oEeSfJeCXAnW4pA"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_wcy-4IJGEeS8dYVlva9rPA">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_wcy-4YJGEeS8dYVlva9rPA"/>
           <description xmi:type="style:SquareDescription" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']/@style"/>
-          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_mWFWMn8oEeSfJeCXAnW4pA"/>
-          <color xmi:type="viewpoint:RGBValues" xmi:id="_mWFWM38oEeSfJeCXAnW4pA" red="194" green="239" blue="255"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_wcy-4oJGEeS8dYVlva9rPA"/>
+          <color xmi:type="viewpoint:RGBValues" xmi:id="_-7LUAIJGEeS8dYVlva9rPA" red="204" green="242" blue="166"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_mWF9QH8oEeSfJeCXAnW4pA" width="3" height="3" resizeKind="NSEW">
         <target xmi:type="dart:Decorator" href="Project.xmi#//@packages.0/@assets.5"/>
         <semanticElements xmi:type="dart:Decorator" href="Project.xmi#//@packages.0/@assets.5"/>
-        <ownedStyle xmi:type="diagram:Square" xmi:id="_mWGkUH8oEeSfJeCXAnW4pA">
-          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_mWGkUX8oEeSfJeCXAnW4pA"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Square" xmi:id="_wc0NAIJGEeS8dYVlva9rPA">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_wc0NAYJGEeS8dYVlva9rPA"/>
           <description xmi:type="style:SquareDescription" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']/@style"/>
-          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_mWGkUn8oEeSfJeCXAnW4pA"/>
-          <color xmi:type="viewpoint:RGBValues" xmi:id="_mWGkU38oEeSfJeCXAnW4pA" red="194" green="239" blue="255"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_wc0NAoJGEeS8dYVlva9rPA"/>
+          <color xmi:type="viewpoint:RGBValues" xmi:id="_-7MiIIJGEeS8dYVlva9rPA" red="204" green="242" blue="166"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_mWN5EH8oEeSfJeCXAnW4pA">
         <target xmi:type="dart:HTML" href="Project.xmi#//@packages.0/@assets.2"/>
         <semanticElements xmi:type="dart:HTML" href="Project.xmi#//@packages.0/@assets.2"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@containerMappings[name='HTMLContainer']"/>
-        <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_mWPHMH8oEeSfJeCXAnW4pA">
+        <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_mWPHMH8oEeSfJeCXAnW4pA" name="HTML">
           <target xmi:type="dart:HTML" href="Project.xmi#//@packages.0/@assets.2"/>
           <semanticElements xmi:type="dart:HTML" href="Project.xmi#//@packages.0/@assets.2"/>
           <ownedStyle xmi:type="diagram:Square" xmi:id="_mWPuQH8oEeSfJeCXAnW4pA">
@@ -235,8 +275,11 @@
       <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_mWQVUH8oEeSfJeCXAnW4pA">
         <target xmi:type="dart:Stylesheet" href="Project.xmi#//@packages.0/@assets.3"/>
         <semanticElements xmi:type="dart:Stylesheet" href="Project.xmi#//@packages.0/@assets.3"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@containerMappings[name='CSSContainer']"/>
-        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_mWQ8YH8oEeSfJeCXAnW4pA" width="3" height="3" resizeKind="NSEW">
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_mWQ8YH8oEeSfJeCXAnW4pA" name="Stylesheet" width="3" height="3" resizeKind="NSEW">
           <target xmi:type="dart:Stylesheet" href="Project.xmi#//@packages.0/@assets.3"/>
           <semanticElements xmi:type="dart:Stylesheet" href="Project.xmi#//@packages.0/@assets.3"/>
           <ownedStyle xmi:type="diagram:Square" xmi:id="_mWRjcH8oEeSfJeCXAnW4pA">
@@ -248,11 +291,25 @@
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@containerMappings[name='CSSContainer']/@subNodeMappings[name='CSS']"/>
         </ownedDiagramElements>
       </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_2UFFcIBQEeSFNYDSlQjgPA" sourceNode="_mWDhAH8oEeSfJeCXAnW4pA" targetNode="_mWCS4H8oEeSfJeCXAnW4pA">
+        <target xmi:type="dart:Class" href="Project.xmi#//@packages.0/@assets.1"/>
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_2UNoUIBQEeSFNYDSlQjgPA" targetArrow="InputClosedArrow" size="2">
+          <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@edgeMappings[name='Extends']/@style"/>
+          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_2UNoUYBQEeSFNYDSlQjgPA" red="136" green="136" blue="136"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_2UNoUoBQEeSFNYDSlQjgPA">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_2UNoU4BQEeSFNYDSlQjgPA"/>
+          </centerLabelStyle>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@edgeMappings[name='Extends']"/>
+      </ownedDiagramElements>
       <description xmi:type="description_1:DiagramDescription" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']"/>
       <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_mSU3kX8oEeSfJeCXAnW4pA"/>
       <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer"/>
       <target xmi:type="dart:Project" href="Project.xmi#/"/>
     </ownedRepresentations>
     <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']"/>
+  </ownedViews>
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_gb_NsIJGEeS8dYVlva9rPA" initialized="true">
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/alma-m2-2014/FerdjaniArafet_SiriusProject/dart.ferdjani.design/description/ferdjani.odesign#//@ownedViewpoints[name='ViewPrincipal']"/>
   </ownedViews>
 </viewpoint:DAnalysis>

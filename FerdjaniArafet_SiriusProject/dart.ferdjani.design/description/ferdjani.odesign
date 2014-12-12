@@ -37,21 +37,21 @@
           <style xsi:type="style:SquareDescription" resizeKind="NSEW">
             <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
             <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_blue']"/>
+            <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_green']"/>
           </style>
         </nodeMappings>
         <nodeMappings name="UnsynchLibrary" createElements="false" domainClass="dart.Library"/>
-        <edgeMappings name="ClassEdge" sourceMapping="//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Package']" targetMapping="//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']">
-          <style sizeComputationExpression="2">
+        <edgeMappings name="Extends" sourceMapping="//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']" targetMapping="//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']" targetFinderExpression="[extends/]">
+          <style targetArrow="InputClosedArrow" sizeComputationExpression="2">
             <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
             <centerLabelStyleDescription>
               <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
             </centerLabelStyleDescription>
           </style>
         </edgeMappings>
-        <edgeMappings name="HTMLEdge" sourceMapping="//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Package']" targetMapping="//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@containerMappings[name='HTMLContainer']/@subNodeMappings[name='Html']">
-          <style sizeComputationExpression="2">
-            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+        <edgeMappings name="Implements" sourceMapping="//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']" targetMapping="//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']" targetFinderExpression="[implements/]">
+          <style targetArrow="InputClosedArrow" sizeComputationExpression="2" centeredSourceMappings="//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']" centeredTargetMappings="//@ownedViewpoints[name='ViewPrincipal']/@ownedRepresentations[name='Diagram']/@defaultLayer/@nodeMappings[name='Class']">
+            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='purple']"/>
             <centerLabelStyleDescription>
               <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
             </centerLabelStyleDescription>

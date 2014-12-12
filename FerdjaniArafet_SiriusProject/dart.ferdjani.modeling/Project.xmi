@@ -1,17 +1,44 @@
 <?xml version="1.0" encoding="ASCII"?>
-<dart:Project xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dart="http://www.obeo.fr/dsl/2014/dart" xsi:schemaLocation="http://www.obeo.fr/dsl/2014/dart ../org.obeonetwork.dsl.dart/model/dart.ecore">
-  <packages name="org.arafet.banque" license="">
-    <assets xsi:type="dart:Class" name="Banque" partOf="//@packages.0/@assets.6" extends="//@packages.0/@assets.5">
-      <fields name="Name"/>
+<dart:Project
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dart="http://www.obeo.fr/dsl/2014/dart"
+    xsi:schemaLocation="http://www.obeo.fr/dsl/2014/dart ../org.obeonetwork.dsl.dart/model/dart.ecore">
+  <packages
+      name="org.arafet.banque"
+      license="">
+    <assets
+        xsi:type="dart:Class"
+        name="Banque"
+        documentation=""
+        partOf="//@packages.0/@assets.6">
+      <fields
+          name="Name"/>
     </assets>
-    <assets xsi:type="dart:Class" name="Client">
-      <fields name="Name" value=""/>
-      <methods name="Client"/>
+    <assets
+        xsi:type="dart:Class"
+        name="Client"
+        extends="//@packages.0/@assets.0">
+      <fields
+          name="Name"
+          value=""/>
+      <methods
+          name="Client"/>
     </assets>
-    <assets xsi:type="dart:HTML"/>
-    <assets xsi:type="dart:Stylesheet"/>
-    <assets xsi:type="dart:Controller"/>
-    <assets xsi:type="dart:Decorator"/>
-    <assets xsi:type="dart:Library" parts="//@packages.0/@assets.0"/>
+    <assets
+        xsi:type="dart:HTML"
+        name="HTML"
+        uses="//@packages.0/@assets.6"/>
+    <assets
+        xsi:type="dart:Stylesheet"
+        name="Stylesheet"/>
+    <assets
+        xsi:type="dart:Controller"/>
+    <assets
+        xsi:type="dart:Decorator"/>
+    <assets
+        xsi:type="dart:Library"
+        parts="//@packages.0/@assets.0"/>
   </packages>
 </dart:Project>
